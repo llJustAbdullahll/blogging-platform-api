@@ -108,9 +108,3 @@ Follow these steps to install and run the API:
    `http://127.0.0.1:8000/api`
 
    Use this URL in Postman to test the API endpoints.
-
-## API Testing with Postman
-
-A Postman collection can be added to the project to make testing the API endpoints easier.
-
-After importing the collection into Postman, you can test the available API endpoints directly.
